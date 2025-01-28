@@ -1,0 +1,1 @@
+Hier wil ik graag leren hoe je daadwerkelijk een nieuwe of bestaande pagina kunt maken of downloaden, als main of master, waarna je wijzigingen kunt maken en commits te maken, waarna ik deze weer terug zal pushen voor controle.
